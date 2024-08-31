@@ -1,11 +1,14 @@
 import React from 'react';
+import Contact from './Contact';
 
 function  Home(){
     return(
         <div>
-            <h1>  Header </h1>
-            <h1> Side Bar   </h1>
-            <h1>  Footer </h1>
+           <Contact />
+           <Contact />
+           <Contact />
+           <Contact />
+
 
 
         </div>
